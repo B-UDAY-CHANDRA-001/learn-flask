@@ -4,7 +4,6 @@ venv/
 instance/*
 instance/.gitignore
 .webassets-cache
-
 #Flask.python Stack
 #Byte-compliled / optimized / DLL files
 __pycache__/
